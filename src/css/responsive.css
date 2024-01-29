@@ -1,0 +1,33 @@
+@media (max-width: 410px) {
+    .card {
+        width: 300px;
+        height: 450px;
+        box-shadow: 5px 5px hsl(0, 0%, 7%);
+    }
+
+    .card .image {
+        margin-bottom: 20px;
+    }
+
+    .card .info .learning {
+        padding: 6px 10px;
+        font-size: 10px;
+    }
+
+    .card .info .published {
+        font-size: 10px;
+    }
+
+    .card .info h2 {
+        font-size: 18px;
+    }
+
+    .card .info .description {
+        font-size: 12px;
+        margin-bottom: 25px;
+    }
+
+    .card .info .perfil p {
+        font-size: 12px;
+    }
+}
